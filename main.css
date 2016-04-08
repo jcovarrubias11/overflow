@@ -1,0 +1,12 @@
+div, img {
+    margin: 20px;
+    border: 1px dashed black;
+}
+
+div {
+    overflow: auto;
+}
+
+.pic2 {
+    float: left;
+}
